@@ -1,4 +1,4 @@
-#Asteroids game built on Svelte
+# Asteroids game built on Svelte
 
 # Svelte
 
